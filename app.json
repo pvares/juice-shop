@@ -17,7 +17,7 @@
     "broken",
     "bodgeit"
   ],
-  "env" {
+  "env": {
     "NODE_ENV": {
       "description": "NODE_ENV",
       "value": "ctf"
