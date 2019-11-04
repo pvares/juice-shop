@@ -16,5 +16,15 @@
     "vulnerability",
     "broken",
     "bodgeit"
-  ]
+  ],
+  "env" {
+    "NODE_ENV": {
+      "description": "NODE_ENV",
+      "value": "ctf"
+    },
+    "CTF_KEY": {
+      "description": "CTF_SECRET",
+      "value": "TgFFUOhwMaCVQFYOSHJumIgHKHksCPgmcE"
+    }
+  }
 }
